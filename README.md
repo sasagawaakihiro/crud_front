@@ -1,6 +1,5 @@
 # Getting Started with Create React App
 
+バックエンドはrailsapiで作成している。先にrailsサーバを起動しておくことを推奨。  
 1.npm installでライブラリをインストールする。  
-2.rails db:migrateでテーブルを作成する。  
-3.rails db:seedで初期データを作成する。（任意）  
-4.rails sでサーバを起動する。  
+2.npm startでサーバを起動する。（ポートは3000がデフォルト）  
